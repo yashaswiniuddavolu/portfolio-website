@@ -106,7 +106,7 @@ yashu-portfolio/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yashaswiniuddavolu/Portfolio-website
+git clone https://github.com/yashaswiniuddavolu/portfolio-website
 cd yashu-portfolio
 ```
 

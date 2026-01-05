@@ -5,7 +5,7 @@ A professional, fully redesigned, **neon + glassmorphism React.js portfolio**, f
 ---
 
 ## 🌐 Live Portfolio  
-🔗 **https://**
+🔗 **https://portfolio-website-tawny-three-92.vercel.app/**
 
 ---
 
@@ -208,7 +208,7 @@ Drag & drop `/build` folder
 ### ▶ GitHub Pages  
 Add to package.json:
 ```json
-"homepage": "https://github.com/yashaswiniuddavolu/Portfolio-website"
+"homepage": "https://github.com/yashaswiniuddavolu/portfolio-website"
 ```
 
 ---
